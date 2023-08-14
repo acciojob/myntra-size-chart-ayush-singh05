@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+table{
+        max-width: 70vw;
+        border-collapse: collapse;
+    }
+	table th, table tr{
+        width: 10vw;
+    }
+     th, tr,td{
+        border: 1px solid black;
+        
+    }
+    thead{
+        background-color: #c0504d;
+        color: white;
+        text-align: left;
+    }
+    .waist {
+        background-color: #da9694;
+        color: white;
+       
+    }
+    .chest{
+        background-color: #f2dcdb;
+    }
+    .sleeve {
+        background-color: #d9d9d9;
+        
+    }
